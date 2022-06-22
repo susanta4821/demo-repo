@@ -1,1 +1,1 @@
-firrst 100 lines of code
+firrst 100 lines of codes
